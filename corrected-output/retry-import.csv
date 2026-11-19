@@ -1,0 +1,9 @@
+﻿code,name,aliases,notes
+TAG-001,设备维护,,update existing
+TAG-NEW-A1,产业政策服务工单中心B,,similar name
+TAG-NEW-B1,创业对话服务中心甲,,similar name
+TAG-NEW-C1,企业交流活动中心二,园区活动,similar name and shared alias
+TAG-NEW-Z1,智慧食堂,,"主营产品有中文, 还包含 ""引号"""
+MISSING,间歇校准,,fix required field
+CONFLICT,导入地址 <script>,,conflict one
+CONFLICT,导入地址备选,,conflict two
